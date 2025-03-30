@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Cores do APP -->
+    <color name="verdeEscuro">#006341</color>
+    <color name="verdeClaro">#00A859</color>
+    <color name="cinzaEscuro">#4D4D4D</color>
+    <color name="cinzaClaro">#B3B3B3</color>
+    <color name="branco">#FFFFFF</color>
+
+    <!-- Elementos do APP -->
+    <string name="appTitulo">Calculadora IMC</string>
+    <string name="textPeso">Insira o Peso (em kg)</string>
+    <string name="textAltura">Insira a Altura (em m)</string>
+
+    <!-- Valores Botões -->
+    <string name="btnCalcular">Calcular IMC</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="btnFechar">Fechar</string>
+
+    <!-- Valores do Resultado -->
+    <string name="textIMC">Seu IMC:</string>
+    <string name="textAbaixoPeso">Seu corpo é único e especial! Se deseja ganhar peso de forma saudável, procure manter uma alimentação equilibrada e nutritiva.</string>
+    <string name="textPesoNormal">Você está em uma faixa saudável! Continue cuidando do seu bem-estar com uma alimentação balanceada e atividades que te fazem bem.</string>
+    <string name="textAcimaPeso">Seu corpo te acompanha em todas as jornadas! Pequenas mudanças na rotina podem trazer grandes benefícios.</string>
+    <string name="textObesidade1">O mais importante é cuidar de si com carinho e atenção. Pequenos hábitos saudáveis fazem toda a diferença!</string>
+    <string name="textObesidade2">Seu corpo merece cuidados e amor! Buscar um estilo de vida mais saudável é uma jornada única e possível.</string>
+    <string name="textObesidade3">Cada dia é uma nova oportunidade para cuidar de si! Você pode conquistar hábitos mais saudáveis e melhorar sua qualidade de vida.</string>
+
+</resources>
